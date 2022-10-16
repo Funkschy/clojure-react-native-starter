@@ -2,7 +2,7 @@
 
 This will automatically initialize a functioning React Native app using [ClojureScript](https://clojurescript.org/) and [Reagent](https://github.com/reagent-project/reagent)
 
-The resulting app does NOT use metro, it's a pure react native app written in Clojure
+The resulting app does NOT use expo, it's a pure react native app written in Clojure
 
 ## Dependencies
 
